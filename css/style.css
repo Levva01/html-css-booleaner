@@ -48,3 +48,30 @@ ul{
     padding-left: 10px;
 }
 
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+tr{
+    margin: 0;
+}
+
+.coloredRow{
+    background-color: lightblue;
+
+}
+
+.cellPadding{
+    padding-left: 30px;
+}
+
+td{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
